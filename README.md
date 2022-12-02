@@ -4,6 +4,8 @@ Hi 👋 My name is Ömer Türker
 Front end Developer
 -------------------
 
+I'm currently learning some stuff about front end development and i looking for junior position.
+
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [omerturkerweb@gmail.com](mailto:omerturkerweb@gmail.com)
 * 🧠  I'm learning React/Firebase
