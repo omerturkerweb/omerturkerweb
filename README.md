@@ -9,6 +9,7 @@ I'm currently learning some stuff about front end developer and i looking for ju
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [omerturkerweb@gmail.com](mailto:omerturkerweb@gmail.com)
 * 🧠  I'm learning React
+* ⚡ Frontendmentor : https://www.frontendmentor.io/profile/omerturkerweb
 
 
 ### Socials
