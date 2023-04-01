@@ -1,10 +1,7 @@
-Hi 👋 My name is Ömer Türker
-============================
-
-Front end Developer (Open To Work)
+ Front end Developer (Open To Work)
 -------------------
 
-I'm currently learning some stuff about front end developer and i looking for junior position.
+ looking for junior position.
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [omerturkerweb@gmail.com](mailto:omerturkerweb@gmail.com)
